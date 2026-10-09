@@ -12,7 +12,7 @@ schema_view = get_schema_view(
     openapi.Info(
         title="Radifus API",
         default_version='v1',
-        description="0 dan boshlab",
+        description="PDp legend",
     ),
     public=True,
     permission_classes=[permissions.AllowAny],
